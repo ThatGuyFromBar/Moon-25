@@ -12,6 +12,8 @@
 https://docs.google.com/document/d/1z46dmpNcMbJC1kscq0rZoehjTwRRCpot/edit?usp=sharing&ouid=102501524469571436193&rtpof=true&sd=true
 ### Видеозапись симуляции полёта в KSP
 https://drive.google.com/file/d/1VNbHLH1IvEqDRcbkhBJnEjMfbZFrc5aP/view?usp=sharing
+### Видеоотчёт о проделанной работе
+https://drive.google.com/file/d/1ZkoXu-6CD4jnIkEO7j9q24ODgvjGjflN/view
 ### Полный план работы:
 1. Сбор и анализ доступной информации о реальном ходе исторической миссии по посадке "Луны-25" на поверхность Луны.
 2. Сбор аэродинамических данных о примерной модели ракеты-носителя, изучение инструментария и теории для создания математической и физической моделей.
