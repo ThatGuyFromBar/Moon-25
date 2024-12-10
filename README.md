@@ -10,6 +10,8 @@
 ## Документация
 ### Research-документ
 https://docs.google.com/document/d/1z46dmpNcMbJC1kscq0rZoehjTwRRCpot/edit?usp=sharing&ouid=102501524469571436193&rtpof=true&sd=true
+### Презентация проекта
+https://docs.google.com/presentation/d/1IkRFQXdFTg3wlyn8Ar-7-2zHtkS1ncSJlsWWLzArZmQ/edit?usp=sharing
 ### Видеозапись симуляции полёта в KSP
 https://drive.google.com/file/d/1VNbHLH1IvEqDRcbkhBJnEjMfbZFrc5aP/view?usp=sharing
 ### Видеоотчёт о проделанной работе
